@@ -142,3 +142,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant-info {
+  background-color: #e3eafc;
+  border: 1px solid #90caf9;
+  border-radius: 5px;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  color: #1a237e;
+  font-size: 16px;
+  box-shadow: 0 1px 3px rgba(26, 35, 126, 0.07);
+}
+
+.participant-info h4 {
+  margin-bottom: 8px;
+  color: #1565c0;
+}
+
+.participant-info p {
+  margin-bottom: 5px;
+  font-size: 15px;
+}
